@@ -8,7 +8,7 @@
     <groupId>com.lections</groupId>
     <artifactId>rememberlections</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>MyApp</name>
+    <name>RememberLections</name>
 
     <properties>
         <maven.compiler.release>21</maven.compiler.release>
