@@ -5,10 +5,10 @@
              https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.lections</groupId>
-    <artifactId>rememberlections</artifactId>
+    <groupId>com.lectures</groupId>
+    <artifactId>rememberlectures</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>RememberLections</name>
+    <name>RememberLectures</name>
 
     <properties>
         <maven.compiler.release>21</maven.compiler.release>
